@@ -41,17 +41,14 @@ My goal is to create useful tools that simplify workflows, improve productivity,
 
 ### Featured Projects
 
-- **Kira Takip**
-  - Rental and payment tracking system
-  - Bank integration and workflow automation
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Evrak AI](https://github.com/nexivon/evrak-ai) | Document upload and AI-assisted field extraction | Python, FastAPI |
+| [AITracker](https://github.com/nexivon/AITracker) | AI-powered news summaries and text-to-speech | SwiftUI, Gemini API |
+| [Dingin Sudoku](https://github.com/nexivon/dingin-sudoku-android) | Offline Android Sudoku with multiple difficulty levels | Kotlin, Jetpack Compose |
+| [GİB Takvim](https://github.com/nexivon/gib-takvim) | Tax calendar and deadline reminders | React Native, TypeScript |
 
-- **AI Automation Tools**
-  - Productivity-focused tools powered by AI
-  - Experiments with intelligent workflows and assistants
-
-- **Mobile App Projects**
-  - Practical app ideas and implementation experiments
-  - Focused on usability and real-world value
+*More projects and experiments are available in the [repositories](https://github.com/nexivon?tab=repositories) section.*
 
 ### GitHub Activity
 
