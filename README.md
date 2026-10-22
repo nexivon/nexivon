@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/nexivon-logo.png" alt="Nexivon Logo" width="160" />
+<img src="./assets/nexivon-logo.svg" alt="Nexivon Logo" width="160" />
 
 # NEXIVON
 
