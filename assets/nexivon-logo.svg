@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-label="Nexivon logo">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1229"/><stop offset="1" stop-color="#111B3D"/></linearGradient>
+<linearGradient id="left" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#35C9FF"/><stop offset=".55" stop-color="#2769E7"/><stop offset="1" stop-color="#3A35A8"/></linearGradient>
+<linearGradient id="cross" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#35CEFA"/><stop offset=".43" stop-color="#3574FF"/><stop offset="1" stop-color="#A365F5"/></linearGradient>
+<linearGradient id="right" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#392B93"/><stop offset=".6" stop-color="#6F45D6"/><stop offset="1" stop-color="#B97AFE"/></linearGradient>
+</defs>
+<rect width="800" height="800" rx="156" fill="url(#bg)"/>
+<path d="M176 574V226c0-21 17-38 38-38h76l112 149v237c0 21-17 38-38 38h-38L252 502v72c0 21-17 38-38 38s-38-17-38-38Z" fill="url(#left)"/>
+<path d="M290 188h-5l226 306V225c0-21 17-37 38-37h39c21 0 38 16 38 37v349c0 21-17 38-38 38h-73L290 310Z" fill="url(#right)"/>
+<path d="M286 188c14 0 27 7 35 18l283 350c21 25 3 56-28 56h-57c-13 0-25-6-33-16L204 247c-18-22-2-59 27-59Z" fill="url(#cross)"/>
+<path d="M212 660h376" stroke="#5970B9" stroke-width="3" opacity=".28" stroke-linecap="round"/>
+</svg>
