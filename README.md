@@ -1,5 +1,6 @@
-
 <div align="center">
+
+<img src="./assets/nexivon-logo.png" alt="Nexivon Logo" width="160" />
 
 # NEXIVON
 
@@ -17,13 +18,15 @@
 
 Welcome to **Nexivon**.
 
-Exploring and developing practical software solutions that simplify complex tasks, automate workflows, and turn innovative ideas into useful digital products.
+I build practical software solutions focused on **AI**, **automation**, and **digital products**.  
+My goal is to create useful tools that simplify workflows, improve productivity, and turn ideas into working systems.
 
-### What I'm Building
+### Focus Areas
 
 - Artificial Intelligence & Intelligent Tools
 - Workflow Automation
-- Web & Mobile Applications
+- Web Applications
+- Mobile Applications
 - API Integrations
 - Open-Source Software
 
@@ -33,7 +36,22 @@ Exploring and developing practical software solutions that simplify complex task
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![API](https://img.shields.io/badge/API-Integration-0A66C2?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-Intelligent%20Systems-7657D1?style=flat-square)
+
+### Featured Projects
+
+- **Kira Takip**
+  - Rental and payment tracking system
+  - Bank integration and workflow automation
+
+- **AI Automation Tools**
+  - Productivity-focused tools powered by AI
+  - Experiments with intelligent workflows and assistants
+
+- **Mobile App Projects**
+  - Practical app ideas and implementation experiments
+  - Focused on usability and real-world value
 
 ### GitHub Activity
 
@@ -47,8 +65,7 @@ Exploring and developing practical software solutions that simplify complex task
 
 <div align="center">
 
-**NEXIVON**
-
+**NEXIVON**  
 *Think. Build. Improve.*
 
 </div>
